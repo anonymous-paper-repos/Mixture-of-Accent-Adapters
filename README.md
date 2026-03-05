@@ -1,6 +1,6 @@
 # Mixture-of-Accent-Adapters for Robust ASR: Injecting Accent Cues into Pretrained Whisper
 
-![Image](https://github.com/user-attachments/assets/fdee11a4-71a9-412e-a973-7e8184f984b9)
+![Image](https://github.com/user-attachments/assets/d36214a7-365f-42aa-9944-cac30f41fbac)
 
 
 
